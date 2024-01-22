@@ -1,0 +1,1 @@
+# FastApi-dependency_injector-rabbimq
