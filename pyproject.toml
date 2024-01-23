@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "fastapi-dependency-injector-rabbitmq"
+version = "0.1.0"
+description = ""
+authors = ["jhcho <cho418651@ssrinc.co.kr>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+fastapi = "^0.109.0"
+uvicorn = {extras = ["standard"], version = "^0.26.0"}
+pika = "^1.3.2"
+dependency-injector = "^4.41.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
