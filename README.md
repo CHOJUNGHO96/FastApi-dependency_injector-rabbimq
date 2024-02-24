@@ -1,4 +1,4 @@
-# FastApi-dependency_injector-rabbimq
+# FastApi + dependency_injector + rabbimq
 
 This project is a reference implementation using FastAPI, Dependency Injector, and RabbitMQ.
 
